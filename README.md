@@ -32,17 +32,17 @@ g++ -o phonebook main.cpp
 phonebook.exe      # On Windows
 ```
 
-##Screenshots
+## Screenshots
 
-###Menu Screen
+### Menu Screen
 
 ![image](https://github.com/user-attachments/assets/87c64cf4-2fde-4008-bd33-f846bd01d426)
 
-###Adding a Contact
+### Adding a Contact
 
 ![image](https://github.com/user-attachments/assets/4960a987-f8f9-4c02-a48b-c20e63a441fa)
 
-###View All Contacts
+### View All Contacts
 
 ![image](https://github.com/user-attachments/assets/fb3995c3-b992-4adc-ba93-1d5955619a32)
 
